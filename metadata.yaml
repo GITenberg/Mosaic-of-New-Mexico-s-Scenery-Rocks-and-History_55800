@@ -1,5 +1,8 @@
 _repo: Mosaic-of-New-Mexico-s-Scenery-Rocks-and-History_55800
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55800-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '48523'
     url: http://www.gutenberg.org/2009/agents/48523
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55800#Mosaic-of-New-Mexico-s-Scenery-Rocks-and-History
 gutenberg_issued: '2017-10-24'
 gutenberg_type: Text
 identifiers:
